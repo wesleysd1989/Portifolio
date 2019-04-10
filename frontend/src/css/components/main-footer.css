@@ -34,17 +34,17 @@
 .main-footer .link[href*="facebook"] {
   width: 10px;
   height: 20px;
-  background-image: url(../../img/facebook-white.svg);
+  background-image: url('../../assets/facebook-white.svg');
 }
 
 .main-footer .link[href*="twitter"] {
   width: 24px;
   height: 19px;
-  background-image: url(../../img/twitter-white.svg);
+  background-image: url('../../assets/twitter-white.svg');
 }
 
 .main-footer .link[href*="linkedin"] {
   width: 24px;
   height: 23px;
-  background-image: url(../../img/linkedin-white.svg);
+  background-image: url('../../assets/linkedin-white.svg');
 }

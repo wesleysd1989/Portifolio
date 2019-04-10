@@ -16,13 +16,13 @@
 }
 
 .social-media .-facebook {
-    background-image: url(../../img/facebook.svg);
+    background-image: url('../../assets/facebook.svg');
 }
 
 .social-media .-twitter {
-    background-image: url(../../img/twitter.svg);
+    background-image: url('../../assets/twitter.svg');
 }
 
 .social-media .-linkedin {
-    background-image: url(../../img/linkedin.svg);
+    background-image: url('../../assets/linkedin.svg');
 }

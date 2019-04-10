@@ -6,7 +6,7 @@
       rgba(117, 78, 249, 0.92),
       rgba(117, 78, 249, 0.92)
     ),
-    url(../../img/baby.jpg);
+    url('../../assets/baby.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   width: 728px;
